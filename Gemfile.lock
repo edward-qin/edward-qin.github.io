@@ -295,8 +295,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages
-  jekyll
+  github-pages (~> 228)
   jekyll-feed
   jekyll-seo-tag
   minima (~> 2.5)

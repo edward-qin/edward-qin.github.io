@@ -23,6 +23,7 @@ description: >-
   My Website
 baseurl: ""
 url: "https://edward-qin.github.io"
+domain: edward-qin.github.io
 
 # Build settings
 theme: minima
