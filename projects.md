@@ -8,6 +8,10 @@ Below is a showcase of some projects I have worked on.
 
 ### a 
 
+{#
+ comment 
+ #}
+
 photofilter?
 something systems related
 something theory related
@@ -15,7 +19,7 @@ something theory related
 
 ### [Machine Learning Optimizer](/assets/optimizers.pdf)
 
-For the final project of a machine learning course, I worked with a group to survey the history of optimizers. For the first half of the course, we had covered some learning theory
+For the final project of a machine learning course, I worked with a group to survey the history of optimizers. For the first half of the course, we had covered some learning theory including Empirical Risk Minimization, VC Dimension, and Rademacher Complexity, as well as how SGD and Adam optimizers work. We hoped to delve deeper into understanding the theory behind the many optimizers used in machine learning research, thus producing this paper.
 
 ### [Japanase Art DCGAN](https://edward-qin.github.io/Japanese-Art-DCGAN/)
 
