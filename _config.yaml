@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Edward Qin
-description: >-
-  My Website
+# description: >- # TODO maybe last updated date where this goes
+#   Edward Qin
 baseurl: ""
 url: "https://edward-qin.github.io"
 domain: edward-qin.github.io

@@ -10,6 +10,7 @@ gem 'rspec'
 gem "webrick" # necessary for Ruby 3.0 and Jekyll
 gem "minima", "~> 2.5"
 
+# needs update using `bundle update github-pages`
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
 group :jekyll_plugins do
