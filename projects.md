@@ -8,9 +8,6 @@ Below is a showcase of some projects I have worked on.
 
 ### a 
 
-{#
- comment 
- #}
 
 photofilter?
 something systems related

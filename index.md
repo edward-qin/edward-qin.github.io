@@ -8,14 +8,10 @@ permalink: /
 
 ## About
 
-Passion for computer science (theory and systems), and teaching
-Goals for swe, possible teaching later on
+Hello! I am a combined BS/MS computer science student at the University of Washington. 
 
-## Contact
+Throughout my coursework and work experiences, I have found an increasing passion in computer science. In particular, I am very interested in the subfields of computer science theory and systems. I have also found that I enjoy teaching computer science as a teaching assistant for the UW Allen School.
 
-Email: [edwardcq@cs.washington.edu](mailto:edwardcq@cs.washington.edu){:target="_blank"}
+My goals for the future include swe, possible teaching later on
 
-LinkedIn: [https://www.linkedin.com/in/edward-qin/](https://www.linkedin.com/in/edward-qin/){:target="_blank"}
-
-Github: [https://github.com/edward-qin](https://github.com/edward-qin){:target="_blank"}
 
