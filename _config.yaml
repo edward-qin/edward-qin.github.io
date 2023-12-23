@@ -41,7 +41,7 @@ last-modified-at:
 header_pages:
   - experience.md
   - projects.md
-  - fun.md
+  # - fun.md
 
 remote_theme: jekyll/minima
 
