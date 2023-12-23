@@ -6,8 +6,9 @@ permalink: /fun
 
 ## Cello
 
-I play in the University of Washington Campus Philharmonic Orchestra A. I also occasionally play in a string quartet and for the University of Washington Music for Charity Club.
+Throughout college, I have been playing in the University of Washington [Campus Philharmonic Orchestra](https://music.washington.edu/ensembles/campus-philharmonia-orchestras){:target="_blank"}. I also play in a string quartet and occasionally for the UW [Music for Charity Club](https://muscharity.wordpress.com/).
 
 ## Other
 
 My other hobbies include occasionally playing badminton trying to get better at cooking.
+anime lol
