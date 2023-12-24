@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Edward Qin
-# description: >- # TODO maybe last updated date where this goes
-#   {{ page.last_modified_at }}
+description: >-
+  Edward Qin's personal website detailing his computer science and teaching goals.
 baseurl: ""
 url: "https://edward-qin.github.io"
 domain: edward-qin.github.io
@@ -41,7 +41,7 @@ last-modified-at:
 header_pages:
   - experience.md
   - projects.md
-  # - fun.md
+  - hobbies.md
 
 remote_theme: jekyll/minima
 
