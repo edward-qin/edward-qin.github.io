@@ -16,14 +16,16 @@ For the final project of a computer vision course, I worked with a partner to tr
 
 ### [Daily Tab Opener Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/daily-url-opener/){:target="_blank"}
 
-wanted to motivate self
-small 1-week project
-
-### Distributed Key-Value Store
-
-no link since this was course project
-really enjoyed learning design docs, debugging features
+During one school break, I felt the need to motivate myself. I found that I was unmotivated to practice Leetcode interview problems. I had also been wanting to read the daily xkcd comic. As such, I figured it would be a smart idea to make a tool that could help me. As such, this was a self-contained, one-week project where I learned the basics of browser extensions and submitted it to the Firefox Add-Ons store.
 
 ### [PhotoFilter App](https://github.com/edward-qin/PhotoFilter){:target="_blank"}
 
 learned image manipulation
+work with react native
+basic full stack project using server framework [SparkJava](https://sparkjava.com/)
+
+### Distributed Key-Value Store and Other Course Projects
+
+no link since this was course project
+really enjoyed learning design docs, debugging features
+Other course projects have included MiniJava compiler, Flight transactions database, C/C++ file/web search index.
