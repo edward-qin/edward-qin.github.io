@@ -16,4 +16,4 @@ I have also found that I enjoy teaching computer science as a teaching assistant
 
 My current goals lie in software engineering. I hope to build meaningful solutions while fortifying my technical expertise, applying both systems and theoretical knowledge into my work. In the long-term, I hope to incorporate teaching into my career, either part-time or eventually full-time as a teaching professor.
 
-Click to download my [resume](/assets/resume.pdf){:target="_blank"}!
+Click here to view my [resume](/assets/resume.pdf){:target="_blank"}. Additionally, please feel free to contact me through any of the links below!

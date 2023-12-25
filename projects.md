@@ -20,12 +20,10 @@ During one school break, I felt the need to motivate myself. I found that I was 
 
 ### [PhotoFilter App](https://github.com/edward-qin/PhotoFilter){:target="_blank"}
 
-learned image manipulation
-work with react native
-basic full stack project using server framework [SparkJava](https://sparkjava.com/)
+Over a couple months, a friend and I wanted to build a mobile app that can filter photos. In the process, we learned about kernels and basic image pixel manipulation techniques. This was a full-stack project where we used the [React Native](https://reactnative.dev/){:target="_blank"} framework in the frontend and the [SparkJava](https://sparkjava.com/){:target="_blank"} framework for the server.
 
 ### Distributed Key-Value Store and Other Course Projects
 
-no link since this was course project
-really enjoyed learning design docs, debugging features
-Other course projects have included MiniJava compiler, Flight transactions database, C/C++ file/web search index.
+For a distributed systems course, I worked with a partner to implement a distributed key-value store that was linearizable, fault-tolerant, dynamically sharded, and supported multi-key cross-shard transactions. The course project also incorporated protocols like 2-Phase Commit and MultiPaxos. This was a valuable learning experience where I learned to think of and write clear design docs. Design was essential to correctness, and I also had to really learn to use logging and debugging tools to make up for places where our design lacked.
+
+Note that there is no link to the project since this was course project and UW's course projects are reused across different quarters. However, other meaningful course projects of mention that I have completed include a MiniJava compiler, flight transactions database, and C/C++ web/file search index.
