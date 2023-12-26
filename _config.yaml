@@ -20,17 +20,40 @@
 
 title: Edward Qin
 description: >-
-  My Website
+  Edward Qin's personal website detailing his computer science and teaching goals.
 baseurl: ""
 url: "https://edward-qin.github.io"
+domain: edward-qin.github.io
 
 # Build settings
-theme: minima
+# theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+  - jekyll-remote-theme
+
+last-modified-at:
+  date-format: '%B %d, %Y'
+
+header_pages:
+  - experience.md
+  - projects.md
+  - hobbies.md
+
+remote_theme: jekyll/minima
+
+author: 
+  name: Edward Qin
+  email: "edwardcq@uw.edu"
+
+# uses Minima-3.0 (from github, not released gem)
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/edward-qin" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/edward-qin/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
