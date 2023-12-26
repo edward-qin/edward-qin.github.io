@@ -7,6 +7,7 @@ gem 'rspec'
 
 # basic gems and theme
 gem "jekyll"
+gem "kramdown-parser-gfm"
 gem "webrick" # necessary for Ruby 3.0 and Jekyll
 
 # gem "minima", :github => 'jekyll/minima' 
