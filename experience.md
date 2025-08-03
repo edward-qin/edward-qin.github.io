@@ -5,6 +5,7 @@ permalink: /experience
 ---
 
 - [Industry](#industry)
+  - [Software Engineer @ Snowflake](#software-engineer--snowflake)
   - [Software Engineer Intern @ Amazon](#software-engineer-intern--amazon)
   - [Software Engineer Intern @ Snowflake](#software-engineer-intern--snowflake)
   - [Software Engineer Intern @ Snowflake](#software-engineer-intern--snowflake-1)
@@ -16,6 +17,10 @@ permalink: /experience
 
 
 ## Industry
+
+### Software Engineer @ Snowflake
+
+At [Snowflake](https://www.snowflake.com/en/){:target="_blank"}, I am currently working on the Trust Center Platform.
 
 ### Software Engineer Intern @ Amazon
 

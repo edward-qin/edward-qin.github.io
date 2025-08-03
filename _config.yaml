@@ -34,26 +34,37 @@ plugins:
   - jekyll-feed
   - jekyll-last-modified-at
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 last-modified-at:
   date-format: '%B %d, %Y'
 
-header_pages:
-  - experience.md
-  - projects.md
-  - hobbies.md
+# header_pages:
+#   - experience.md
+#   - projects.md
+#   - hobbies.md
 
 remote_theme: jekyll/minima
 
 author: 
   name: Edward Qin
-  email: "edwardcq@uw.edu"
+  email: "3dwardqin@gmail.com"
 
 # uses Minima-3.0 (from github, not released gem)
 minima:
+  hide_site_feed_link: true
+  nav_pages:
+    - experience.md
+    - projects.md
+    - hobbies.md
   social_links:
-    - { platform: github,  user_url: "https://github.com/edward-qin" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/edward-qin/" }
+    - title: Github
+      icon: github
+      url: "https://github.com/edward-qin"
+    - title: Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/edward-qin/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
