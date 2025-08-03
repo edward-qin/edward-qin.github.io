@@ -44,7 +44,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.x
+          ruby-version: head
 
       - name: Install dependencies
         run: bundle install
