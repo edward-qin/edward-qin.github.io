@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem "csv" # maybe necessary for newer Ruby versions using old Jekyll version
+
 # basic gems and theme
 gem "jekyll"
 gem "kramdown-parser-gfm"
